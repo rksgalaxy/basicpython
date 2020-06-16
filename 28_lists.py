@@ -11,3 +11,4 @@ print(s[0],s[1][0])
 #letter in string
 hh = 'Hero Honda'
 print(hh[6])
+
