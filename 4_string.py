@@ -1,0 +1,5 @@
+print(('rks'+'galaxy'))
+print('You \'re very talented boy')
+print('He:hi\nShe:Hello')
+home= input('Enter Your HOMETOWN : ')
+print('My hometown is ' + home + '.')

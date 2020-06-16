@@ -1,0 +1,6 @@
+print(5++4)
+print(55*2)
+print(50-1)
+print(100/10)
+print(78%70)
+print("I HAVE DONE SIMPLE OPERATIONS")
