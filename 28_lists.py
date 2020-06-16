@@ -7,3 +7,6 @@ r = []
 print(r)
 print ("RKSGALAXY")
 
+print('GOOD ' + 'NIGHT')
+
+
