@@ -7,3 +7,21 @@ for b in range(2,10,2):
     print(b)
 #to show the list of range use the list function
 print(list(range(0,20,3)))
+
+#print 1 to 10
+print("print one to ten")
+for i in range(11):
+    print(i)
+
+#accessng list element using loop
+n=['Amritesh',11 , 12]
+for j in n:
+    print(j)
+
+print("print all element of list for float")
+
+i=[1,11,111,2.0,11,22,33,55,33.98,4.1435]
+for p in i:
+    print(p)
+
+
