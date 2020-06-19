@@ -1,3 +1,11 @@
+'''
+    SYNTAX:
+    for var_name in iterable:
+        ...
+        ...
+
+    where iterable can be list[],tuples() or any object(dict{} ,set()) that can be iterate
+'''
 #printing odd number
 for a in range (1,10,2):
     print(a)
@@ -25,3 +33,9 @@ for p in i:
     print(p)
 
 
+words = ["hello","world","spams","eggs"]
+counter = 0 #counter is vaariable here
+max_index = len (words)
+word = words[counter]
+for counter in range(max_index,1):
+    print(word +"!")
