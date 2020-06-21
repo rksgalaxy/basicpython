@@ -39,3 +39,9 @@ max_index = len (words)
 word = words[counter]
 for counter in range(max_index,1):
     print(word +"!")
+
+
+X = int(input('enter any Number '))
+for P in range(1,11):
+    z = X * P
+    print(z)

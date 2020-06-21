@@ -27,4 +27,3 @@ print(1 not in No)
 print(not 1 in No)
 print(8 not in No)
 print(not 8 in No)
-
